@@ -45,3 +45,5 @@ print(aList)
 #移除元素
 aList.remove("abc")
 print(aList)
+#移除不存在的元素会出现异常
+#aList.remove(0)
