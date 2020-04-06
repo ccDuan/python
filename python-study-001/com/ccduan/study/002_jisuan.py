@@ -5,4 +5,6 @@ print(100/8)
 
 a=100
 b=8
+
+
 print(a/b)
